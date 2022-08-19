@@ -52,15 +52,6 @@ Use Case Diagram
 
 Activity Diagram
 
-
-Tech Stack
-Regardless of the project concept you choose, you will be required to adhere to the following tech stack:
-
- Java 8
- Apache Maven
- PostgreSQL (hosted on AWS RDS or localhost)
- Git SCM (hosted on GitHub)
- Postman
   
 ## Technical Requiremnt
 Regardless of the project concept you choose, you will be required to adhere to the following tech stack:
